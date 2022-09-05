@@ -70,3 +70,4 @@ export const getComponent = (key, id) => {
       return React.null;
   }
 };
+
